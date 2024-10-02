@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#FF0000",
-    "light": "#07C983",
-    "dark": "#FF0000",
+    "primary": "#930d0d",
+    "light": "#c90707",
+    "dark": "#930d0d",
     "anchors": {
-      "from": "#FF0000",
-      "to": "#07C983"
+      "from": "#930d0d",
+      "to": "#c90707"
     }
   },
   "topbarLinks": [
@@ -35,11 +35,11 @@
     {
       "name": "Discord",
       "icon": "discord",
-      "url": "https://discord.com/invite/tdev"
+      "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Store",
-      "icon": "shop",
+      "name": "Community",
+      "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
