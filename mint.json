@@ -27,7 +27,7 @@
   },
   "navigation": [
     {
-      "group": "Essentials",
+      "group": "Introduction",
       "pages": [
         "essentials/markdown",
         "essentials/code",
