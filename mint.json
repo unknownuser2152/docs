@@ -35,11 +35,11 @@
     {
       "name": "Discord",
       "icon": "discord",
-      "url": "https://mintlify.com/docs"
+      "url": "https://discord.com/invite/tdev"
     },
     {
-      "name": "Community",
-      "icon": "slack",
+      "name": "Store",
+      "icon": "shop",
       "url": "https://mintlify.com/community"
     },
     {
