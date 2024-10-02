@@ -27,7 +27,7 @@
   },
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Initializing Operations",
       "pages": [
         "introduction",
         "quickstart",
